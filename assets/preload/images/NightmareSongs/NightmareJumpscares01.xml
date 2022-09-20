@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NightmareJumpscares01.png">
+<SubTexture name="CupScare instance 10000" x="0" y="0" width="821" height="1373" frameX="-1044" frameY="-1236" frameWidth="2341" frameHeight="2613" />
+<SubTexture name="CupScare instance 10001" x="821" y="0" width="788" height="1065" frameX="-1193" frameY="-525" frameWidth="2341" frameHeight="2613" />
+<SubTexture name="CupScare instance 10002" x="0" y="1373" width="870" height="1062" frameX="-1075" frameY="-563" frameWidth="2341" frameHeight="2613" />
+<SubTexture name="CupScare instance 10003" x="870" y="1373" width="856" height="1062" frameX="-1092" frameY="-539" frameWidth="2341" frameHeight="2613" />
+<SubTexture name="CupScare instance 10004" x="0" y="2435" width="902" height="1089" frameX="-1056" frameY="-504" frameWidth="2341" frameHeight="2613" />
+<SubTexture name="CupScare instance 10005" x="902" y="2435" width="1652" height="1643" frameX="-344" frameY="-349" frameWidth="2341" frameHeight="2613" />
+</TextureAtlas>

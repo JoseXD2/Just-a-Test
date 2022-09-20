@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chara.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="0BF attack copy instance 10000" x="5" y="5" width="386" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10001" x="5" y="5" width="386" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10002" x="401" y="5" width="387" height="374" frameX="-1157" frameY="-23" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10003" x="401" y="5" width="387" height="374" frameX="-1157" frameY="-23" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10004" x="798" y="5" width="1041" height="400" frameX="-495" frameY="0" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10005" x="5" y="415" width="1509" height="400" frameX="-27" frameY="0" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10006" x="5" y="825" width="1377" height="400" frameX="-159" frameY="0" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10007" x="1392" y="825" width="1245" height="400" frameX="-291" frameY="0" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10008" x="1849" y="5" width="769" height="400" frameX="-767" frameY="0" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10009" x="5" y="5" width="386" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10010" x="5" y="5" width="386" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10011" x="1524" y="415" width="384" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10012" x="1524" y="415" width="384" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10013" x="1524" y="415" width="384" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10014" x="1524" y="415" width="384" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10015" x="1524" y="415" width="384" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10016" x="1524" y="415" width="384" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10017" x="1524" y="415" width="384" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10018" x="1524" y="415" width="384" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10019" x="1524" y="415" width="384" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0BF attack copy instance 10020" x="1524" y="415" width="384" height="373" frameX="-1157" frameY="-24" frameWidth="1572" frameHeight="400"/>
+	<SubTexture name="0EEEE instance 10000" x="1918" y="415" width="482" height="378" frameX="-9" frameY="-26" frameWidth="491" frameHeight="407"/>
+	<SubTexture name="0EEEE instance 10001" x="5" y="1235" width="417" height="407" frameX="-22" frameY="0" frameWidth="491" frameHeight="407"/>
+	<SubTexture name="0EEEE instance 10002" x="5" y="1235" width="417" height="407" frameX="-22" frameY="0" frameWidth="491" frameHeight="407"/>
+	<SubTexture name="0EEEE instance 10003" x="432" y="1235" width="417" height="407" frameX="-4" frameY="0" frameWidth="491" frameHeight="407"/>
+	<SubTexture name="0EEEE instance 10004" x="432" y="1235" width="417" height="407" frameX="-4" frameY="0" frameWidth="491" frameHeight="407"/>
+	<SubTexture name="0EEEE instance 10005" x="859" y="1235" width="417" height="407" frameX="0" frameY="0" frameWidth="491" frameHeight="407"/>
+	<SubTexture name="0EEEE instance 10006" x="859" y="1235" width="417" height="407" frameX="0" frameY="0" frameWidth="491" frameHeight="407"/>
+	<SubTexture name="0EEEE instance 10007" x="859" y="1235" width="417" height="407" frameX="0" frameY="0" frameWidth="491" frameHeight="407"/>
+	<SubTexture name="0EEEE instance 10008" x="859" y="1235" width="417" height="407" frameX="0" frameY="0" frameWidth="491" frameHeight="407"/>
+	<SubTexture name="0EEEE instance 10009" x="859" y="1235" width="417" height="407" frameX="0" frameY="0" frameWidth="491" frameHeight="407"/>
+	<SubTexture name="0EEEE instance 10010" x="859" y="1235" width="417" height="407" frameX="0" frameY="0" frameWidth="491" frameHeight="407"/>
+	<SubTexture name="0EERR instance 10000" x="1286" y="1235" width="489" height="385" frameX="0" frameY="-17" frameWidth="489" frameHeight="405"/>
+	<SubTexture name="0EERR instance 10001" x="1785" y="1235" width="408" height="405" frameX="-55" frameY="0" frameWidth="489" frameHeight="405"/>
+	<SubTexture name="0EERR instance 10002" x="1785" y="1235" width="408" height="405" frameX="-55" frameY="0" frameWidth="489" frameHeight="405"/>
+	<SubTexture name="0EERR instance 10003" x="2203" y="1235" width="396" height="405" frameX="-73" frameY="0" frameWidth="489" frameHeight="405"/>
+	<SubTexture name="0EERR instance 10004" x="2203" y="1235" width="396" height="405" frameX="-73" frameY="0" frameWidth="489" frameHeight="405"/>
+	<SubTexture name="0EERR instance 10005" x="1286" y="1650" width="394" height="404" frameX="-82" frameY="0" frameWidth="489" frameHeight="405"/>
+	<SubTexture name="0EERR instance 10006" x="1286" y="1650" width="394" height="404" frameX="-82" frameY="0" frameWidth="489" frameHeight="405"/>
+	<SubTexture name="0EERR instance 10007" x="1286" y="1650" width="394" height="404" frameX="-82" frameY="0" frameWidth="489" frameHeight="405"/>
+	<SubTexture name="0EERR instance 10008" x="1286" y="1650" width="394" height="404" frameX="-82" frameY="0" frameWidth="489" frameHeight="405"/>
+	<SubTexture name="0EERR instance 10009" x="1286" y="1650" width="394" height="404" frameX="-82" frameY="0" frameWidth="489" frameHeight="405"/>
+	<SubTexture name="0EERR instance 10010" x="1286" y="1650" width="394" height="404" frameX="-82" frameY="0" frameWidth="489" frameHeight="405"/>
+	<SubTexture name="0Idle instance 10000" x="1690" y="1650" width="416" height="382" frameX="0" frameY="-26" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10001" x="1690" y="1650" width="416" height="382" frameX="0" frameY="-26" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10002" x="2116" y="1650" width="409" height="402" frameX="-9" frameY="-8" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10003" x="2116" y="1650" width="409" height="402" frameX="-9" frameY="-8" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10004" x="5" y="2062" width="411" height="404" frameX="-11" frameY="-6" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10005" x="5" y="2062" width="411" height="404" frameX="-11" frameY="-6" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10006" x="426" y="2062" width="412" height="406" frameX="-13" frameY="-4" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10007" x="426" y="2062" width="412" height="406" frameX="-13" frameY="-4" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10008" x="848" y="2062" width="413" height="408" frameX="-14" frameY="-2" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10009" x="848" y="2062" width="413" height="408" frameX="-14" frameY="-2" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10010" x="1690" y="2062" width="414" height="409" frameX="-15" frameY="-1" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10011" x="1690" y="2062" width="414" height="409" frameX="-15" frameY="-1" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10012" x="2114" y="2062" width="415" height="410" frameX="-15" frameY="0" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10013" x="2114" y="2062" width="415" height="410" frameX="-15" frameY="0" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10014" x="2628" y="5" width="415" height="410" frameX="-15" frameY="0" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10015" x="2628" y="5" width="415" height="410" frameX="-15" frameY="0" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10016" x="2647" y="425" width="415" height="410" frameX="-15" frameY="0" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Idle instance 10017" x="2647" y="425" width="415" height="410" frameX="-15" frameY="0" frameWidth="430" frameHeight="410"/>
+	<SubTexture name="0Ouu instance 10000" x="2647" y="845" width="412" height="314" frameX="0" frameY="-57" frameWidth="412" frameHeight="376"/>
+	<SubTexture name="0Ouu instance 10001" x="2647" y="1169" width="370" height="362" frameX="-20" frameY="-14" frameWidth="412" frameHeight="376"/>
+	<SubTexture name="0Ouu instance 10002" x="2647" y="1169" width="370" height="362" frameX="-20" frameY="-14" frameWidth="412" frameHeight="376"/>
+	<SubTexture name="0Ouu instance 10003" x="2609" y="1541" width="364" height="373" frameX="-21" frameY="-2" frameWidth="412" frameHeight="376"/>
+	<SubTexture name="0Ouu instance 10004" x="2609" y="1541" width="364" height="373" frameX="-21" frameY="-2" frameWidth="412" frameHeight="376"/>
+	<SubTexture name="0Ouu instance 10005" x="2539" y="1924" width="362" height="375" frameX="-22" frameY="0" frameWidth="412" frameHeight="376"/>
+	<SubTexture name="0Ouu instance 10006" x="2539" y="1924" width="362" height="375" frameX="-22" frameY="0" frameWidth="412" frameHeight="376"/>
+	<SubTexture name="0Ouu instance 10007" x="2539" y="1924" width="362" height="375" frameX="-22" frameY="0" frameWidth="412" frameHeight="376"/>
+	<SubTexture name="0Ouu instance 10008" x="2539" y="1924" width="362" height="375" frameX="-22" frameY="0" frameWidth="412" frameHeight="376"/>
+	<SubTexture name="0Ouu instance 10009" x="2539" y="1924" width="362" height="375" frameX="-22" frameY="0" frameWidth="412" frameHeight="376"/>
+	<SubTexture name="0Ouu instance 10010" x="2539" y="1924" width="362" height="375" frameX="-22" frameY="0" frameWidth="412" frameHeight="376"/>
+	<SubTexture name="0UPPP instance 10000" x="1271" y="2309" width="365" height="470" frameX="-13" frameY="0" frameWidth="392" frameHeight="470"/>
+	<SubTexture name="0UPPP instance 10001" x="2539" y="2309" width="392" height="439" frameX="0" frameY="-29" frameWidth="392" frameHeight="470"/>
+	<SubTexture name="0UPPP instance 10002" x="3072" y="5" width="388" height="424" frameX="-3" frameY="-44" frameWidth="392" frameHeight="470"/>
+	<SubTexture name="0UPPP instance 10003" x="3072" y="5" width="388" height="424" frameX="-3" frameY="-44" frameWidth="392" frameHeight="470"/>
+	<SubTexture name="0UPPP instance 10004" x="3072" y="439" width="385" height="414" frameX="-5" frameY="-54" frameWidth="392" frameHeight="470"/>
+	<SubTexture name="0UPPP instance 10005" x="3072" y="439" width="385" height="414" frameX="-5" frameY="-54" frameWidth="392" frameHeight="470"/>
+	<SubTexture name="0UPPP instance 10006" x="3072" y="439" width="385" height="414" frameX="-5" frameY="-54" frameWidth="392" frameHeight="470"/>
+	<SubTexture name="0UPPP instance 10007" x="3072" y="439" width="385" height="414" frameX="-5" frameY="-54" frameWidth="392" frameHeight="470"/>
+	<SubTexture name="0UPPP instance 10008" x="3072" y="439" width="385" height="414" frameX="-5" frameY="-54" frameWidth="392" frameHeight="470"/>
+	<SubTexture name="0UPPP instance 10009" x="3072" y="439" width="385" height="414" frameX="-5" frameY="-54" frameWidth="392" frameHeight="470"/>
+	<SubTexture name="0UPPP instance 10010" x="3072" y="439" width="385" height="414" frameX="-5" frameY="-54" frameWidth="392" frameHeight="470"/>
+</TextureAtlas>

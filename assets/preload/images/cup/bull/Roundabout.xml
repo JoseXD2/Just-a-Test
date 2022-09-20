@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Roundabout.png">
+<SubTexture name="Roundabout instance 0000" x="0" y="314" width="308" height="292" frameX="-7" frameY="-16" frameWidth="333" frameHeight="320" />
+<SubTexture name="Roundabout instance 0001" x="0" y="0" width="284" height="314" frameX="-16" frameY="-3" frameWidth="333" frameHeight="320" />
+<SubTexture name="Roundabout instance 0002" x="284" y="0" width="298" height="306" frameX="-9" frameY="-5" frameWidth="333" frameHeight="320" />
+<SubTexture name="Roundabout instance 0003" x="582" y="0" width="296" height="294" frameX="-10" frameY="-12" frameWidth="333" frameHeight="320" />
+<SubTexture name="Roundabout instance 0004" x="308" y="314" width="326" height="289" frameX="0" frameY="-14" frameWidth="333" frameHeight="320" />
+<SubTexture name="Roundabout instance 0005" x="878" y="0" width="319" height="284" frameX="0" frameY="-15" frameWidth="333" frameHeight="320" />
+</TextureAtlas>

@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF_FINAL.png">
+<SubTexture name="BF NOTE DOWN instance 10000" x="1279" y="771" width="265" height="235" frameX="0" frameY="-18" frameWidth="266" frameHeight="254" />
+<SubTexture name="BF NOTE DOWN instance 10001" x="1279" y="526" width="251" height="245" frameX="-6" frameY="-9" frameWidth="266" frameHeight="254" />
+<SubTexture name="BF NOTE DOWN instance 10002" x="1279" y="526" width="251" height="245" frameX="-6" frameY="-9" frameWidth="266" frameHeight="254" />
+<SubTexture name="BF NOTE LEFT instance 10000" x="0" y="1161" width="297" height="261" frameX="0" frameY="-10" frameWidth="297" frameHeight="273" />
+<SubTexture name="BF NOTE LEFT instance 10001" x="271" y="886" width="259" height="272" frameX="-23" frameY="0" frameWidth="297" frameHeight="273" />
+<SubTexture name="BF NOTE LEFT instance 10002" x="271" y="886" width="259" height="272" frameX="-23" frameY="0" frameWidth="297" frameHeight="273" />
+<SubTexture name="BF NOTE LEFT instance 10003" x="1013" y="275" width="253" height="273" frameX="-29" frameY="0" frameWidth="297" frameHeight="273" />
+<SubTexture name="BF NOTE LEFT instance 10004" x="1013" y="275" width="253" height="273" frameX="-29" frameY="0" frameWidth="297" frameHeight="273" />
+<SubTexture name="BF NOTE LEFT instance 10005" x="1013" y="548" width="250" height="273" frameX="-34" frameY="0" frameWidth="297" frameHeight="273" />
+<SubTexture name="BF NOTE LEFT instance 10006" x="1013" y="548" width="250" height="273" frameX="-34" frameY="0" frameWidth="297" frameHeight="273" />
+<SubTexture name="BF NOTE RIGHT instance 10000" x="297" y="1161" width="309" height="261" frameX="-11" frameY="-14" frameWidth="320" frameHeight="277" />
+<SubTexture name="BF NOTE RIGHT instance 10001" x="255" y="318" width="274" height="277" frameX="-18" frameY="0" frameWidth="320" frameHeight="277" />
+<SubTexture name="BF NOTE RIGHT instance 10002" x="738" y="0" width="275" height="277" frameX="-17" frameY="0" frameWidth="320" frameHeight="277" />
+<SubTexture name="BF NOTE RIGHT instance 10003" x="0" y="610" width="268" height="276" frameX="-14" frameY="-1" frameWidth="320" frameHeight="277" />
+<SubTexture name="BF NOTE RIGHT instance 10004" x="268" y="610" width="268" height="276" frameX="-14" frameY="-1" frameWidth="320" frameHeight="277" />
+<SubTexture name="BF NOTE RIGHT instance 10005" x="1013" y="0" width="266" height="275" frameX="-8" frameY="-2" frameWidth="320" frameHeight="277" />
+<SubTexture name="BF NOTE UP instance 10000" x="0" y="0" width="239" height="318" frameX="-12" frameY="0" frameWidth="265" frameHeight="318" />
+<SubTexture name="BF NOTE UP instance 10001" x="239" y="0" width="249" height="298" frameX="-7" frameY="-17" frameWidth="265" frameHeight="318" />
+<SubTexture name="BF NOTE UP instance 10002" x="488" y="0" width="250" height="298" frameX="-7" frameY="-17" frameWidth="265" frameHeight="318" />
+<SubTexture name="BF NOTE UP instance 10003" x="0" y="318" width="255" height="292" frameX="-4" frameY="-23" frameWidth="265" frameHeight="318" />
+<SubTexture name="BF annoyed instance 10000" x="1279" y="0" width="279" height="265" frameX="0" frameY="-11" frameWidth="282" frameHeight="277" />
+<SubTexture name="BF annoyed instance 10001" x="1279" y="0" width="279" height="265" frameX="0" frameY="-11" frameWidth="282" frameHeight="277" />
+<SubTexture name="BF annoyed instance 10002" x="530" y="886" width="270" height="272" frameX="-9" frameY="-4" frameWidth="282" frameHeight="277" />
+<SubTexture name="BF annoyed instance 10003" x="800" y="886" width="271" height="272" frameX="-9" frameY="-4" frameWidth="282" frameHeight="277" />
+<SubTexture name="BF annoyed instance 10004" x="0" y="886" width="271" height="275" frameX="-10" frameY="-1" frameWidth="282" frameHeight="277" />
+<SubTexture name="BF annoyed instance 10005" x="0" y="886" width="271" height="275" frameX="-10" frameY="-1" frameWidth="282" frameHeight="277" />
+<SubTexture name="BF annoyed instance 10006" x="0" y="886" width="271" height="275" frameX="-10" frameY="-1" frameWidth="282" frameHeight="277" />
+<SubTexture name="BF annoyed instance 10007" x="738" y="277" width="273" height="277" frameX="-9" frameY="0" frameWidth="282" frameHeight="277" />
+<SubTexture name="BF annoyed instance 10008" x="738" y="277" width="273" height="277" frameX="-9" frameY="0" frameWidth="282" frameHeight="277" />
+<SubTexture name="BF annoyed instance 10009" x="536" y="610" width="274" height="276" frameX="-8" frameY="-1" frameWidth="282" frameHeight="277" />
+<SubTexture name="D-Miss instance 10000" x="1279" y="265" width="253" height="261" frameX="0" frameY="0" frameWidth="254" frameHeight="310" />
+</TextureAtlas>

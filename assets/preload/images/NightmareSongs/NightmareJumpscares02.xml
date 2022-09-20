@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NightmareJumpscares02.png">
+<SubTexture name="Wussup Bitch instance 10000" x="0" y="0" width="791" height="1575" frameX="-433" frameY="-132" frameWidth="1751" frameHeight="1707" />
+<SubTexture name="Wussup Bitch instance 10001" x="791" y="0" width="768" height="949" frameX="-432" frameY="-734" frameWidth="1751" frameHeight="1707" />
+<SubTexture name="Wussup Bitch instance 10002" x="0" y="1575" width="947" height="1576" frameX="-428" frameY="-78" frameWidth="1751" frameHeight="1707" />
+<SubTexture name="Wussup Bitch instance 10003" x="947" y="1575" width="876" height="1566" frameX="-458" frameY="-112" frameWidth="1751" frameHeight="1707" />
+</TextureAtlas>

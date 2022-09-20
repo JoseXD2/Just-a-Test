@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GreenShit.png">
+<SubTexture name="GreenShit01 instance 0000" x="380" y="279" width="135" height="134" frameX="0" frameY="-79" frameWidth="914" frameHeight="280" />
+<SubTexture name="GreenShit01 instance 0001" x="167" y="279" width="113" height="140" frameX="-142" frameY="-75" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit01 instance 0002" x="515" y="279" width="129" height="133" frameX="-264" frameY="-83" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit01 instance 0003" x="280" y="279" width="100" height="138" frameX="-407" frameY="-82" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit01 instance 0004" x="0" y="455" width="135" height="133" frameX="-519" frameY="-82" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit01 instance 0005" x="167" y="279" width="113" height="140" frameX="-660" frameY="-78" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit01 instance 0006" x="0" y="279" width="167" height="176" frameX="-709" frameY="-61" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit01 instance 0007" x="237" y="0" width="226" height="257" frameX="-681" frameY="-17" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit01 instance 0008" x="0" y="0" width="237" height="279" frameX="-670" frameY="0" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit01 instance 0009" x="463" y="0" width="206" height="239" frameX="-670" frameY="0" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit02 instance 0000" x="0" y="455" width="135" height="133" frameX="0" frameY="-121" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit02 instance 0001" x="167" y="279" width="113" height="140" frameX="-141" frameY="-58" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit02 instance 0002" x="515" y="279" width="129" height="133" frameX="-261" frameY="-20" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit02 instance 0003" x="280" y="279" width="100" height="138" frameX="-408" frameY="-8" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit02 instance 0004" x="0" y="455" width="135" height="133" frameX="-520" frameY="-16" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit02 instance 0005" x="167" y="279" width="113" height="140" frameX="-661" frameY="-41" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit02 instance 0006" x="0" y="279" width="167" height="176" frameX="-707" frameY="-54" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit02 instance 0007" x="237" y="0" width="226" height="257" frameX="-671" frameY="-5" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit02 instance 0008" x="0" y="0" width="237" height="279" frameX="-668" frameY="0" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit02 instance 0009" x="463" y="0" width="206" height="239" frameX="-668" frameY="0" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit03 instance 0000" x="0" y="455" width="135" height="133" frameX="0" frameY="0" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit03 instance 0001" x="167" y="279" width="113" height="140" frameX="-141" frameY="-54" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit03 instance 0002" x="515" y="279" width="129" height="133" frameX="-261" frameY="-87" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit03 instance 0003" x="280" y="279" width="100" height="138" frameX="-408" frameY="-99" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit03 instance 0004" x="0" y="455" width="135" height="133" frameX="-522" frameY="-99" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit03 instance 0005" x="167" y="279" width="113" height="140" frameX="-669" frameY="-100" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit03 instance 0006" x="0" y="279" width="167" height="176" frameX="-716" frameY="-73" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit03 instance 0007" x="237" y="0" width="226" height="257" frameX="-680" frameY="-24" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit03 instance 0008" x="0" y="0" width="237" height="279" frameX="-677" frameY="-19" frameWidth="922" frameHeight="299" />
+<SubTexture name="GreenShit03 instance 0009" x="463" y="0" width="206" height="239" frameX="-677" frameY="-19" frameWidth="922" frameHeight="299" />
+</TextureAtlas>

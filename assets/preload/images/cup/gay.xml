@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gay.png">
+<SubTexture name="YTJT instance 10000" x="805" y="464" width="163" height="75" frameX="-10" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10001" x="0" y="555" width="308" height="249" frameX="-57" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10002" x="0" y="0" width="200" height="285" frameX="-273" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10003" x="200" y="0" width="201" height="279" frameX="-253" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10004" x="401" y="0" width="202" height="277" frameX="-240" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10005" x="0" y="285" width="200" height="270" frameX="-181" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10006" x="403" y="285" width="198" height="264" frameX="-173" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10007" x="603" y="268" width="200" height="265" frameX="-177" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10008" x="200" y="285" width="203" height="270" frameX="-233" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10009" x="603" y="0" width="202" height="268" frameX="-238" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10010" x="805" y="0" width="202" height="261" frameX="-234" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10011" x="805" y="261" width="200" height="203" frameX="-202" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10012" x="805" y="261" width="200" height="203" frameX="-202" frameY="0" frameWidth="477" frameHeight="294" />
+<SubTexture name="YTJT instance 10013" x="308" y="555" width="140" height="173" frameX="-221" frameY="0" frameWidth="477" frameHeight="294" />
+</TextureAtlas>

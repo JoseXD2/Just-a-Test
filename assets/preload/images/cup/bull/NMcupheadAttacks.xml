@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NMcupheadAttacks.png">
+<SubTexture name="DeathBlast instance 0000" x="0" y="1684" width="996" height="427" frameX="0" frameY="-45" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 0001" x="0" y="1164" width="905" height="520" frameX="-98" frameY="-11" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 0002" x="1971" y="0" width="850" height="450" frameX="-144" frameY="-26" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathBlast instance 0003" x="905" y="1164" width="854" height="488" frameX="-149" frameY="-11" frameWidth="1009" frameHeight="541" />
+<SubTexture name="DeathRoundabout instance 0000" x="0" y="610" width="509" height="554" frameX="-32" frameY="-39" frameWidth="547" frameHeight="617" />
+<SubTexture name="DeathRoundabout instance 0001" x="481" y="0" width="471" height="594" frameX="-45" frameY="-12" frameWidth="547" frameHeight="617" />
+<SubTexture name="DeathRoundabout instance 0002" x="0" y="0" width="481" height="610" frameX="-34" frameY="-1" frameWidth="547" frameHeight="617" />
+<SubTexture name="DeathRoundabout instance 0003" x="952" y="0" width="491" height="559" frameX="-19" frameY="-30" frameWidth="547" frameHeight="617" />
+<SubTexture name="DeathRoundabout instance 0004" x="509" y="610" width="540" height="549" frameX="0" frameY="-33" frameWidth="547" frameHeight="617" />
+<SubTexture name="DeathRoundabout instance 0005" x="1443" y="0" width="528" height="542" frameX="-4" frameY="-40" frameWidth="547" frameHeight="617" />
+</TextureAtlas>

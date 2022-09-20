@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="PiperJumpscare.png" width="3805" height="3981">
+  <SubTexture name="Fuck uuuu instance 10000" x="0" y="0" width="1" height="1" frameX="-1280" frameY="-723" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10001" x="3463" y="2723" width="316" height="433" rotated="true" frameX="-500" frameY="-408" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10004" x="2920" y="3293" width="543" height="688" frameX="-266" frameY="-36" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10005" x="2164" y="2746" width="534" height="621" frameX="-305" frameY="-103" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10006" x="0" y="0" width="829" height="715" frameX="-248" frameY="-9" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10007" x="3095" y="0" width="710" height="556" rotated="true" frameX="-327" frameY="-14" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10008" x="679" y="3409" width="677" height="528" rotated="true" frameX="-379" frameY="-47" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10009" x="0" y="2893" width="679" height="673" rotated="true" frameX="-379" frameY="-45" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10010" x="2150" y="3369" width="690" height="597" rotated="true" frameX="-381" frameY="-34" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10011" x="1474" y="2735" width="690" height="634" rotated="true" frameX="-356" frameY="-34" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10012" x="694" y="2771" width="686" height="638" rotated="true" frameX="-361" frameY="-38" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10013" x="3077" y="1607" width="697" height="647" rotated="true" frameX="-352" frameY="-26" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10014" x="2229" y="2059" width="691" height="687" frameX="-308" frameY="-37" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10015" x="743" y="2084" width="731" height="687" frameX="-268" frameY="-36" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10016" x="748" y="1394" width="745" height="690" frameX="-254" frameY="-33" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10017" x="1585" y="685" width="751" height="685" frameX="-248" frameY="-38" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10018" x="829" y="0" width="756" height="697" frameX="-243" frameY="-26" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10019" x="1579" y="1370" width="749" height="687" frameX="-250" frameY="-37" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10020" x="2328" y="1372" width="749" height="687" frameX="-250" frameY="-36" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10021" x="0" y="715" width="748" height="690" frameX="-251" frameY="-33" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10022" x="2341" y="0" width="754" height="685" frameX="-245" frameY="-38" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10023" x="829" y="697" width="750" height="697" frameX="-249" frameY="-26" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10024" x="0" y="1405" width="743" height="687" frameX="-256" frameY="-37" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10025" x="2336" y="685" width="750" height="687" frameX="-249" frameY="-36" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10026" x="1585" y="0" width="756" height="685" frameX="-243" frameY="-38" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10027" x="1493" y="2057" width="736" height="678" frameX="-250" frameY="-46" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10028" x="3086" y="956" width="698" height="651" frameX="-251" frameY="-72" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10029" x="1474" y="3369" width="676" height="609" frameX="-245" frameY="-115" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10030" x="2698" y="2746" width="678" height="547" frameX="-249" frameY="-176" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10031" x="2920" y="2254" width="685" height="469" frameX="-250" frameY="-254" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10032" x="0" y="2475" width="694" height="418" frameX="-252" frameY="-305" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10033" x="3095" y="556" width="702" height="400" frameX="-246" frameY="-323" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10034" x="0" y="2092" width="695" height="383" frameX="-253" frameY="-340" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10035" x="3463" y="3468" width="311" height="348" frameX="-262" frameY="-376" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10036" x="3463" y="3156" width="316" height="312" rotated="true" frameX="-258" frameY="-407" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10037" x="0" y="3566" width="263" height="279" rotated="true" frameX="-271" frameY="-460" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10038" x="3605" y="2254" width="194" height="215" frameX="-315" frameY="-509" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10039" x="1493" y="1394" width="85" height="152" frameX="-379" frameY="-572" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10040" x="748" y="715" width="75" height="86" rotated="true" frameX="-378" frameY="-649" frameWidth="1281" frameHeight="724"/>
+  <SubTexture name="Fuck uuuu instance 10041" x="0" y="0" width="1" height="1" frameX="-1280" frameY="-723" frameWidth="1281" frameHeight="724"/>
+</TextureAtlas>

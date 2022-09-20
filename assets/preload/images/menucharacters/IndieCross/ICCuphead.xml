@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="Cuphead_Gaming.png" width="1881" height="1308">
+  <!-- Optimized Sprite by Jere -->
+  <!-- https://youtube.com/channel/UCjVVdBE3EzFVSf7vYsKi-QQ -->
+  <SubTexture name="Cuphead Gaming instance 10000" x="0" y="0" width="663" height="610" rotated="true" frameX="-3" frameY="-1" frameWidth="650" frameHeight="673"/>
+  <SubTexture name="Cuphead Gaming instance 10001" x="0" y="0" width="663" height="610" rotated="true" frameX="-3" frameY="-1" frameWidth="650" frameHeight="673"/>
+  <SubTexture name="Cuphead Gaming instance 10002" x="663" y="0" width="609" height="663" frameX="-3" frameY="-2" frameWidth="650" frameHeight="673"/>
+  <SubTexture name="Cuphead Gaming instance 10003" x="0" y="610" width="609" height="663" frameX="-3" frameY="-2" frameWidth="650" frameHeight="673"/>
+  <SubTexture name="Cuphead Gaming instance 10004" x="1272" y="0" width="609" height="654" frameX="-3" frameY="-11" frameWidth="650" frameHeight="673"/>
+  <SubTexture name="Cuphead Gaming instance 10005" x="1272" y="654" width="609" height="654" frameX="-3" frameY="-11" frameWidth="650" frameHeight="673"/>
+  <SubTexture name="Cuphead Gaming instance 10006" x="609" y="663" width="663" height="602" rotated="true" frameX="-10" frameY="-2" frameWidth="650" frameHeight="673"/>
+  <SubTexture name="Cuphead Gaming instance 10007" x="609" y="663" width="663" height="602" rotated="true" frameX="-10" frameY="-2" frameWidth="650" frameHeight="673"/>
+</TextureAtlas>

@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DodgeMechs.png">
+<SubTexture name="Alarm instance 10000" x="1946" y="0" width="911" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="499" />
+<SubTexture name="Alarm instance 10001" x="1946" y="498" width="911" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="499" />
+<SubTexture name="Alarm instance 10002" x="1946" y="0" width="911" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="499" />
+<SubTexture name="Alarm instance 10003" x="1946" y="498" width="911" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="499" />
+<SubTexture name="Alarm instance 10004" x="1946" y="0" width="911" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="499" />
+<SubTexture name="Alarm instance 10005" x="1946" y="498" width="911" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="499" />
+<SubTexture name="Alarm instance 10006" x="1946" y="0" width="911" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="499" />
+<SubTexture name="Alarm instance 10007" x="1946" y="498" width="911" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="499" />
+<SubTexture name="Alarm instance 10008" x="1946" y="0" width="911" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="499" />
+<SubTexture name="Alarm instance 10009" x="1946" y="498" width="911" height="498" frameX="0" frameY="0" frameWidth="911" frameHeight="499" />
+<SubTexture name="Bones boi instance 1 10000" x="1946" y="1400" width="367" height="119" frameX="-319" frameY="-427" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10001" x="0" y="1582" width="973" height="404" frameX="0" frameY="-142" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10002" x="0" y="0" width="973" height="534" frameX="0" frameY="-12" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10003" x="973" y="0" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10004" x="973" y="0" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10005" x="973" y="0" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10006" x="973" y="0" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10007" x="973" y="0" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10008" x="973" y="0" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10009" x="973" y="0" width="973" height="530" frameX="0" frameY="-16" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10010" x="0" y="534" width="973" height="529" frameX="0" frameY="-17" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10011" x="973" y="534" width="973" height="525" frameX="0" frameY="-21" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10012" x="0" y="1063" width="973" height="519" frameX="0" frameY="-27" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10013" x="973" y="1063" width="973" height="511" frameX="0" frameY="-35" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10014" x="0" y="1986" width="830" height="289" frameX="0" frameY="-257" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10015" x="1946" y="1400" width="367" height="119" frameX="-26" frameY="-426" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10016" x="2313" y="1400" width="197" height="70" frameX="-376" frameY="-476" frameWidth="974" frameHeight="546" />
+<SubTexture name="Bones boi instance 1 10017" x="2756" y="996" width="1" height="1" frameX="-376" frameY="-476" frameWidth="974" frameHeight="546" />
+<SubTexture name="Dodge instance 10000" x="1946" y="996" width="405" height="404" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10001" x="1946" y="996" width="405" height="404" frameX="-13" frameY="-11" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10002" x="2351" y="996" width="405" height="403" frameX="-13" frameY="-13" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10003" x="973" y="1582" width="405" height="403" frameX="-13" frameY="-13" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10004" x="2351" y="996" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10005" x="973" y="1582" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10006" x="2351" y="996" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10007" x="973" y="1582" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10008" x="2351" y="996" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10009" x="973" y="1582" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10010" x="2351" y="996" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10011" x="973" y="1582" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10012" x="2351" y="996" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10013" x="973" y="1582" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10014" x="2351" y="996" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10015" x="973" y="1582" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10016" x="2351" y="996" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10017" x="973" y="1582" width="405" height="403" frameX="-13" frameY="-12" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10018" x="1786" y="1582" width="389" height="395" frameX="-14" frameY="-21" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10019" x="1786" y="1582" width="389" height="395" frameX="-14" frameY="-20" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10020" x="1378" y="1582" width="408" height="400" frameX="-24" frameY="-37" frameWidth="445" frameHeight="437" />
+<SubTexture name="Dodge instance 10021" x="1378" y="1582" width="408" height="400" frameX="-24" frameY="-36" frameWidth="445" frameHeight="437" />
+</TextureAtlas>
